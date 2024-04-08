@@ -7,3 +7,8 @@ PROTOCOL:
 3. Identification by targeted amplicon sequencing of 16S metagenome;
 4. Molecular Phylogenetic Analysis with MEGA Software; and
 5. Screening for antimicrobial compounds (GC-MS).
+
+Molecular Phylogeny Analysis using MEGA11 Software
+JR23- Enterobacter cloacae
+JR35- Bacillus startosphericus
+JR37- Bacillus safensis
